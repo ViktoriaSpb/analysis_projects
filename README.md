@@ -6,4 +6,4 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | [A/A/B-эксперимент](aab_testing) | Исследование на основе пользователей мобильного приложения. Изучение воронки продаж. Влияние изменений шрифта приложения на целевое действие. Расчет статистических гипотез.| *pandas,* *scipy,* *numpy,* *plotly,* *matplotlib*|
 | [Заведения г. Москва](msc_folium) | ouhguoHWGIHIGHIHGAHGKJHGKJHGKJH |  *pandas,* *scipy,* *numpy,* *plotly,* *matplotlib* |
-| [](SQLfinal) | dgddfhdfhfhdfhdhfd |*pandas, PostgreSQL * |
+| [](SQLfinal) | dgddfhdfhfhdfhdhfd |*pandas,* *PostgreSQL * |
