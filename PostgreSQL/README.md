@@ -7,4 +7,4 @@
 
 ## Используемые стеки
 
-*pandas,*SQL*, *PostgreSQL*
+*pandas,* *SQL*, *PostgreSQL*
